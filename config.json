@@ -1,0 +1,19 @@
+{
+  "positions": [
+    {
+      "collateral": "WBNB",
+      "montant_collateral": 10,
+      "debt": "USDT",
+      "montant_dette": 5000,
+      "ltv_max": 0.8
+    },
+    {
+      "collateral": "ETH",
+      "montant_collateral": 2,
+      "debt": "USDC",
+      "montant_dette": 3000,
+      "ltv_max": 0.8
+    }
+  ],
+  "seuil_alerte_health_factor": 1.15
+}
